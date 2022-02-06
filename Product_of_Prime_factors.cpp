@@ -38,7 +38,7 @@ long long int prime_Factor_Product(int n)
         return n * product;
     }
     return product;
-    //Time complexity of this solution is 
+    // Time complexity of this solution is O(n^1/2)
 }
 int main()
 {
